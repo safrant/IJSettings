@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'safrant-ops-owl-applications_GenerateCDISC'" />
-    <option name="defaultScopeName" value="Module 'safrant-ops-owl-applications_GenerateCDISC'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'safrant-ops-owl-applications_GenerateCDISC'" />
+    <option name="customScope" value="File '.../software/cananolab-webapp/src/main/java/gov/nih/nci/cananolab/system/applicationservice/impl/ProxyHelperImpl.java [streamline]'" />
+    <option name="defaultScopeName" value="File '.../software/cananolab-webapp/src/main/java/gov/nih/nci/cananolab/system/applicationservice/impl/ProxyHelperImpl.java [streamline]'" />
+    <option name="SEARCH_SCOPE" value="File '.../software/cananolab-webapp/src/main/java/gov/nih/nci/cananolab/system/applicationservice/impl/ProxyHelperImpl.java [streamline]'" />
   </component>
 </application>
