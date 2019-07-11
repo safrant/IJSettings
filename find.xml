@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../software/cananolab-webapp/src/main/java/gov/nih/nci/cananolab/system/applicationservice/impl/ProxyHelperImpl.java [streamline]'" />
-    <option name="defaultScopeName" value="File '.../software/cananolab-webapp/src/main/java/gov/nih/nci/cananolab/system/applicationservice/impl/ProxyHelperImpl.java [streamline]'" />
-    <option name="SEARCH_SCOPE" value="File '.../software/cananolab-webapp/src/main/java/gov/nih/nci/cananolab/system/applicationservice/impl/ProxyHelperImpl.java [streamline]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
