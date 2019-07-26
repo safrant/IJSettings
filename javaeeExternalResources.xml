@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="antlib:org.apache.maven.artifact.ant" location="" />
     <resource url="http://www.springframework.org/dtd/spring-beans.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.1/extResources/5b169fd5_spring-beans.dtd" />
     <resource url="urn:jboss:1.0" location="$USER_HOME$/Servers/WildFly/wildfly-8.2.1.Final/docs/schema/jboss_1_0.xsd" />
     <resource url="urn:jboss:cli:1.0" location="$USER_HOME$/Servers/WildFly/wildfly-8.2.1.Final/docs/schema/jboss-as-cli_1_0.xsd" />
