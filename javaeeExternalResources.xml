@@ -1,6 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="antlib:org.apache.maven.artifact.ant" location="" />
     <resource url="http://www.springframework.org/dtd/spring-beans.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.1/extResources/5b169fd5_spring-beans.dtd" />
     <resource url="urn:jboss:1.0" location="$USER_HOME$/Servers/WildFly/wildfly-8.2.1.Final/docs/schema/jboss_1_0.xsd" />
     <resource url="urn:jboss:batch-jberet:1.0" location="$USER_HOME$/Servers/WildFly/wildfly-16.0.0.Final/docs/schema/batch-jberet_1_0.xsd" />
@@ -267,5 +266,7 @@
     <resource url="urn:jboss:weld:1.1" location="$USER_HOME$/Servers/WildFly/wildfly-16.0.0.Final/docs/schema/jboss-weld-1_1.xsd" />
     <resource url="urn:jboss:wildfly-client-ejb:3.0" location="$USER_HOME$/Servers/WildFly/wildfly-16.0.0.Final/docs/schema/wildfly-client-ejb_3_0.xsd" />
     <resource url="urn:jboss:wildfly:ejb-timers:1.0" location="$USER_HOME$/Servers/WildFly/wildfly-16.0.0.Final/docs/schema/wildfly-ejb-timer_1_0.xsd" />
+    <ignored-resource url="antlib:org.apache.maven.artifact.ant" />
+    <ignored-resource url="antlib:org.apache.tools.ant.types.resources.selectors" />
   </component>
 </application>
