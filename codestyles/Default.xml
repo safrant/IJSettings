@@ -12,6 +12,7 @@
         <package name="" withSubpackages="true" static="true" />
       </value>
     </option>
+    <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="CATCH_ON_NEW_LINE" value="true" />
