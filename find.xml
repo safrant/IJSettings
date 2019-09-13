@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [Protege_History_Validation]'" />
-    <option name="defaultScopeName" value="Directory '... [Protege_History_Validation]'" />
+    <option name="customScope" value="Project 'Protege_History_Validation'" />
+    <option name="defaultScopeName" value="Project 'Protege_History_Validation'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '... [Protege_History_Validation]'" />
+    <option name="SEARCH_SCOPE" value="Project 'Protege_History_Validation'" />
   </component>
 </application>
