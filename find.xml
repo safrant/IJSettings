@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../software/cananolab-webapp/src'" />
-    <option name="defaultScopeName" value="Directory '.../software/cananolab-webapp/src'" />
+    <option name="customScope" value="File '.../software/cananolab-webapp/src/hibernate.cfg.xml'" />
+    <option name="defaultScopeName" value="File '.../software/cananolab-webapp/src/hibernate.cfg.xml'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../software/cananolab-webapp/src'" />
+    <option name="SEARCH_SCOPE" value="File '.../software/cananolab-webapp/src/hibernate.cfg.xml'" />
   </component>
 </application>
