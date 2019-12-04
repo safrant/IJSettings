@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="spring-resource-reference" injector-id="xml">
+      <display-name>bean/@class</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("class")).withParent(xmlTag().withLocalName(string().equalTo("bean")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans")))]]></place>
+    </injection>
+  </component>
+</application>
