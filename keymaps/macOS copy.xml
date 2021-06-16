@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+</keymap>
