@@ -14,6 +14,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="safrant" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ncievs/nci-protege.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/caNano" />
