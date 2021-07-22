@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/ncievs/nci-protege.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NCIEVS/nci-curator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/caNano" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/EVS" />
   </component>
 </application>
