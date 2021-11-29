@@ -24,6 +24,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/EVS" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/cananolab" />
   </component>
 </application>
