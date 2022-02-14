@@ -5,6 +5,7 @@
         <option value="idea.plugin.protoeditor" />
         <option value="com.intellij.guice" />
         <option value="com.intellij.spring.osgi" />
+        <option value="com.haulmont.jpab" />
       </list>
     </option>
   </component>
