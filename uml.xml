@@ -5,7 +5,7 @@
       <map>
         <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
         <entry id="MAVEN" categories="Show Conflicts/Duplicates;Show Paths: Root -&gt; Selection" />
-        <entry id="MODULES" categories="Show Paths: Root -&gt; Selection" />
+        <entry id="MODULES" categories="Test dependencies;Show Paths: Root -&gt; Selection" />
         <entry id="SpringLocalModels" categories="Show library models" />
       </map>
     </option>
