@@ -1,10 +1,5 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
-  </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
-  </action>
+  <action id="NotebookSelectCellBelowAction" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
