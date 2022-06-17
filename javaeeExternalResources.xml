@@ -1,6 +1,11 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://ehcache.org/ehcache.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/39e8daee_ehcache.xsd" />
+    <resource url="http://www.springframework.org/schema/data/jpa/spring-jpa-1.0.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/fdc49478_spring-jpa-1.0.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/38fbf776_spring-beans-4.3.xsd" />
+    <resource url="https://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/9f766ca_spring-context.xsd" />
+    <resource url="https://www.springframework.org/schema/data/repository/spring-repository-1.0.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/e7802ceb_spring-repository-1.0.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/93b79a08_spring-tool-4.3.xsd" />
     <resource url="urn:jboss:1.0" location="$USER_HOME$/Servers/WildFly/wildfly-8.2.1.Final/docs/schema/jboss_1_0.xsd" />
     <resource url="urn:jboss:batch-jberet:1.0" location="$USER_HOME$/Servers/WildFly/wildfly-16.0.0.Final/docs/schema/batch-jberet_1_0.xsd" />
     <resource url="urn:jboss:cli:1.0" location="$USER_HOME$/Servers/WildFly/wildfly-8.2.1.Final/docs/schema/jboss-as-cli_1_0.xsd" />
