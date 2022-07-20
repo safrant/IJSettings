@@ -13,6 +13,17 @@
           </option>
           <option name="name" value="cts2demo" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="local" />
+                <option name="url" value="http://localhost:8080" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="greeting" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -87,9 +98,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:9080" />
+    <option name="domain" value="http://localhost:8080" />
     <option name="enableEnv" value="local" />
-    <option name="enableProject" value="cts2demo" />
+    <option name="enableProject" value="greeting" />
     <option name="envList">
       <list>
         <option value="local" />
@@ -98,6 +109,7 @@
     <option name="projectList">
       <list>
         <option value="cts2demo" />
+        <option value="greeting" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
