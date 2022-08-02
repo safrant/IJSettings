@@ -6,6 +6,7 @@
         <option value="com.intellij.guice" />
         <option value="com.intellij.spring.osgi" />
         <option value="com.haulmont.jpab" />
+        <option value="com.intellij.javaee.batch" />
       </list>
     </option>
   </component>
