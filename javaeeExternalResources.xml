@@ -29,6 +29,7 @@
     <resource url="urn:jboss:domain:1.7" location="$USER_HOME$/Servers/WildFly/wildfly-16.0.0.Final/docs/schema/jboss-as-config_1_7.xsd" />
     <resource url="urn:jboss:domain:1.8" location="$USER_HOME$/Servers/WildFly/wildfly-16.0.0.Final/docs/schema/jboss-as-config_1_8.xsd" />
     <resource url="urn:jboss:domain:10.0" location="$USER_HOME$/Servers/WildFly/wildfly-16.0.0.Final/docs/schema/wildfly-config_10_0.xsd" />
+    <resource url="urn:jboss:domain:16.0" location="$USER_HOME$/git/caNano/isb-cananolab" />
     <resource url="urn:jboss:domain:2.0" location="$USER_HOME$/Servers/WildFly/wildfly-8.2.1.Final/docs/schema/jboss-as-config_2_0.xsd" />
     <resource url="urn:jboss:domain:2.1" location="$USER_HOME$/Servers/WildFly/wildfly-8.2.1.Final/docs/schema/jboss-as-config_2_1.xsd" />
     <resource url="urn:jboss:domain:2.2" location="$USER_HOME$/Servers/WildFly/wildfly-8.2.1.Final/docs/schema/jboss-as-config_2_2.xsd" />
