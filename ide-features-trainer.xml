@@ -58,6 +58,7 @@
         <entry key="java.debug.workflow" value="PASSED" />
         <entry key="java.inheritance.hierarchy.lesson" value="PASSED" />
         <entry key="java.occurrences.lesson" value="PASSED" />
+        <entry key="java.onboarding" value="NOT_PASSED" />
         <entry key="java.refactoring.menu" value="NOT_PASSED" />
         <entry key="java.run.configuration" value="PASSED" />
         <entry key="method-like function completion" value="NOT_PASSED" />
