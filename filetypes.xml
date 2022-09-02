@@ -8,6 +8,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="mvn_install" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
+      <mapping ext="xjb" type="XML" />
+      <mapping ext="wsdd" type="XML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
